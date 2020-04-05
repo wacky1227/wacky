@@ -47,7 +47,7 @@ header{
     font-weight:bold;
     width:1170px;
     height:340px;
-    padding-top:50px;
+    padding-top:100px;
     margin:auto;
     text-align:center;
     background-image:url(https://cinq.style/uploads/content/image/4214/479992821.jpg);
@@ -66,7 +66,6 @@ header{
 }
 .myself{
     height:250px;
-    padding-left:20px;
     position:relative;
 }
 .pic{
@@ -77,7 +76,6 @@ header{
 }
 .hobby{
     height:350px;
-    padding-left:20px;
     position:relative;
 }
 .moji{
@@ -90,7 +88,6 @@ header{
 }
 .strength{
     height:500px;
-    padding-left:20px;
 }
 .st{
     float:left;
@@ -117,7 +114,6 @@ header{
     margin:10px;
 }
 .weakness{
-    padding-left:20px;
     padding-bottom:50px;
     height:500px;
 }
