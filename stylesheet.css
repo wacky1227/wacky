@@ -1,0 +1,192 @@
+body{
+    margin:0;
+}
+li{
+    list-style:none;
+    float:left;
+    display:inline-block;
+    width:33%;
+}
+header{
+    height:60px;
+    width:1170px;
+    background-color: rgb(41, 41, 41);
+    position:fixed;
+    z-index:10;
+}
+.header-list{
+    display:inline-block;
+    font-size:17px;
+    padding:15px 0;
+}
+.header-list a{
+    color:white;
+    padding-left:170px;
+    width:20%;
+    text-decoration:none;
+}
+.header-list:hover{
+    cursor:pointer;
+}
+.list1:hover{
+    color:red
+}
+.list2:hover{
+    color:red
+}
+.list3:hover{
+    color:red
+}
+.list4:hover{
+    color:red
+}
+.list5:hover{
+    color:red
+}
+.container{
+    font-weight:bold;
+    width:1170px;
+    height:340px;
+    padding-top:50px;
+    margin:auto;
+    text-align:center;
+    background-image:url(https://cinq.style/uploads/content/image/4214/479992821.jpg);
+    background-size:cover;
+}
+.name{
+    font-size:60px;
+}
+.subname{
+    font-size:30px;
+    opacity:0.7;
+}
+.myself-wrapper{
+    height:1500px;
+    width:1170px;
+}
+.myself{
+    height:250px;
+    padding-left:20px;
+    position:relative;
+}
+.pic{
+    float:right;
+    position:absolute;
+    top:50px;
+    right:150px;
+}
+.hobby{
+    height:350px;
+    padding-left:20px;
+    position:relative;
+}
+.moji{
+    color:red;
+}
+.pic2{
+    position:absolute;
+    top:50px;
+    right:150px;
+}
+.strength{
+    height:500px;
+    padding-left:20px;
+}
+.st{
+    float:left;
+    width:33%;
+}
+.st-icon{
+    position:relative;
+    padding-left:70px;
+}
+.st-icon p{
+    position:absolute;
+    top:75px;
+    left:140px;
+    width:100%;
+    color:black;
+}
+.st1{
+    margin:10px;
+}
+.st2{
+    margin:10px;
+}
+.st3{
+    margin:10px;
+}
+.weakness{
+    padding-left:20px;
+    padding-bottom:50px;
+    height:500px;
+}
+.we{
+    float:left;
+    width:33%;
+}
+.we-icon{
+    position:relative;
+    padding-left:70px;
+}
+.we-icon p{
+    position:absolute;
+    top:75px;
+    left:140px;
+    width:100%;
+    color:black;
+}
+.we1{
+    margin:10px;
+}
+.we2{
+    margin:10px;
+}
+.we3{
+    margin:10px;
+}
+.title{
+    background-color: springgreen;
+}
+footer{
+    height:200px;
+    padding:50px 0px;
+}
+.contact{
+    width:1170px;
+    text-align:center;
+}
+.con{
+    padding-top:40px;
+    font-size:30px;
+}
+.btn{
+    padding: 8px 30px;
+    font-weight: bold;
+    color:black;
+    display:inline-block;
+    opacity: 0.8;
+    text-align:center;
+    box-shadow:5px 5px black;
+}
+.btn:hover{
+    cursor:pointer;
+    opacity:1;
+}
+.btn:active{
+    position: relative;
+    top:6px;
+    box-shadow:none;
+}
+.insta{
+    background-color:rgb(250, 79, 159);
+    margin-right:30px;
+    text-decoration:none;
+}
+.twitter{
+    background-color:rgb(94, 223, 255);
+    text-decoration:none;
+}
+.fa{
+    margin-right:5px;
+}
