@@ -142,6 +142,7 @@ header{
 }
 .title{
     background-color: springgreen;
+    padding-left:30px;
 }
 footer{
     height:200px;
