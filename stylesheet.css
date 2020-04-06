@@ -9,7 +9,7 @@ li{
 }
 header{
     height:60px;
-    width:1170px;
+    width:1250px;
     background-color: rgb(41, 41, 41);
     position:fixed;
     z-index:10;
@@ -45,7 +45,7 @@ header{
 }
 .container{
     font-weight:bold;
-    width:1170px;
+    width:1250px;
     height:340px;
     padding-top:100px;
     text-align:center;
@@ -61,7 +61,7 @@ header{
 }
 .myself-wrapper{
     height:1500px;
-    width:1170px;
+    width:1250px;
 }
 .myself{
     height:250px;
@@ -71,7 +71,7 @@ header{
     float:right;
     position:absolute;
     top:50px;
-    right:150px;
+    right:130px;
 }
 .hobby{
     height:350px;
@@ -83,7 +83,7 @@ header{
 .pic2{
     position:absolute;
     top:50px;
-    right:150px;
+    right:130px;
 }
 .strength{
     height:500px;
@@ -148,7 +148,7 @@ footer{
     padding:50px 0px;
 }
 .contact{
-    width:1170px;
+    width:1250px;
     text-align:center;
 }
 .con{
