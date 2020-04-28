@@ -69,3 +69,57 @@
         margin:10px 0;
     }
 }
+@media(max-width:1000px){
+    .header-list{
+        font-size:14px;
+        padding:20px 0 0 50px;
+    }
+    .container{
+        width:100%;
+        height:100%;
+    }
+    .myself-wrapper{
+        width:100%;
+        height:1600px;
+    }
+    .intro{
+        width:180px;
+        height:180px;
+    }
+    .pic{
+        top:50px;
+        right:30px;
+    }
+    .hobby{
+        height:400px;
+    }
+    .pic2{
+        top:150px;
+        right:20px;
+    }
+    .strength{
+        height:600px;
+    }
+    .st-icon{
+        padding-left:50px;
+    }
+    .st-icon p{
+        top:75px;
+        left:120px;
+        font-size:15px;
+    }
+    .weakness{
+        height:500px;
+    }
+    .we-icon{
+        padding-left:50px;
+    }
+    .we-icon p{
+        top:75px;
+        left:120px;
+        font-size:15px;
+    }
+    footer{
+        height:300px;
+    }
+}
