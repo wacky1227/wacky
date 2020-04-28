@@ -97,12 +97,12 @@ header-list a{
 }
 .st-icon{
     position:relative;
-    padding-left:70px;
+    padding-left:100px;
 }
 .st-icon p{
     position:absolute;
     top:75px;
-    left:140px;
+    left:165px;
     width:100%;
     color:black;
 }
@@ -124,12 +124,12 @@ header-list a{
 }
 .we-icon{
     position:relative;
-    padding-left:70px;
+    padding-left:100px;
 }
 .we-icon p{
     position:absolute;
     top:75px;
-    left:140px;
+    left:165px;
     width:100%;
     color:black;
 }
