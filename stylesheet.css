@@ -24,7 +24,6 @@ header{
 .header-list{
     font-size:17px;
     padding:20px 0 0 90px;
-
 }
 header-list a{
     text-decoration:none!important;
@@ -97,7 +96,7 @@ header-list a{
 }
 .st-icon{
     position:relative;
-    padding-left:120px;
+    padding-left:100px;
 }
 .st-icon p{
     position:absolute;
