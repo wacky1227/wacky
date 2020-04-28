@@ -1,29 +1,33 @@
+*{
+    box-sizing:border-box;
+}
 body{
     margin:0;
 }
+ul{
+    padding:0;
+    margin:0 0 0 1em;
+}
 li{
     list-style:none;
-    float:left;
+    color:white;
     display:inline-block;
-    width:33%;
+    width:17%;
 }
 header{
     height:60px;
-    width:1250px;
+    width:100%;
     background-color: rgb(41, 41, 41);
     position:fixed;
     z-index:10;
 }
 .header-list{
-    display:inline-block;
     font-size:17px;
-    padding:15px 0;
+    padding:20px 0 0 90px;
+
 }
-.header-list a{
-    color:white;
-    padding-left:150px;
-    width:20%;
-    text-decoration:none;
+header-list a{
+    text-decoration:none!important;
 }
 .header-list:hover{
     cursor:pointer;
@@ -45,8 +49,8 @@ header{
 }
 .container{
     font-weight:bold;
-    width:1250px;
-    height:340px;
+    width:100%;
+    height:380px;
     padding-top:100px;
     text-align:center;
     background-image:url(https://cinq.style/uploads/content/image/4214/479992821.jpg);
@@ -61,17 +65,16 @@ header{
 }
 .myself-wrapper{
     height:1500px;
-    width:1250px;
+    width:100%;
 }
 .myself{
     height:250px;
     position:relative;
 }
 .pic{
-    float:right;
-    position:absolute;
     top:50px;
-    right:130px;
+    right:150px;
+    position:absolute;
 }
 .hobby{
     height:350px;
@@ -83,7 +86,7 @@ header{
 .pic2{
     position:absolute;
     top:50px;
-    right:130px;
+    right:150px;
 }
 .strength{
     height:500px;
@@ -113,7 +116,6 @@ header{
     margin:10px;
 }
 .weakness{
-    padding-bottom:50px;
     height:500px;
 }
 .we{
@@ -141,22 +143,18 @@ header{
     margin:10px;
 }
 .title{
-    background-color: springgreen;
     padding-left:30px;
-}
-.bun{
-    padding-left:40px;
+    background-color:rgb(38, 255, 38);
 }
 footer{
     height:200px;
-    padding:50px 0px;
 }
 .contact{
-    width:1250px;
+    width:100%;
     text-align:center;
+    padding:50px 0;
 }
 .con{
-    padding-top:70px;
     font-size:30px;
 }
 .btn{
@@ -188,4 +186,7 @@ footer{
 }
 .fa{
     margin-right:5px;
+}
+.bun{
+    padding-left:40px;
 }
